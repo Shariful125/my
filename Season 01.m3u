@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTENC: UTF-8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",T Sports
 #PLAYLIST: Season 01
 #EXTINF:0, Ray  S01EP1.mkv
 https://nikkstv.biswajit.in/api/v1/redirectdownload/Ray%20%20S01EP1.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=11f9lL0hMR-hVsCqXO0Byw65HJ_ZZzSkv
