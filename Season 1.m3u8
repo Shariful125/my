@@ -1,18 +1,11 @@
 #EXTM3U
-#PLAYLIST: Season 1
-#EXTINF:0, Loki.S01E01.720p.DSNP.WEBRip.DDP5.1.Atmos.x264-NOGRP.mkv
-https://nikkstv.biswajit.in/api/v1/redirectdownload/Loki.S01E01.720p.DSNP.WEBRip.DDP5.1.Atmos.x264-NOGRP.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1HXjpcE4pmxHbPMUeYAL1840LCiJcEst0
-
-#EXTINF:0, Loki.S01E02.720p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv
-https://nikkstv.biswajit.in/api/v1/redirectdownload/Loki.S01E02.720p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1otmM_1UtGkECEKehLwUvstt8FDBpjArG
-
-#EXTINF:0, Loki.S01E03.720p.WEB.H264-EXPLOIT.mkv
-https://nikkstv.biswajit.in/api/v1/redirectdownload/Loki.S01E03.720p.WEB.H264-EXPLOIT.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1bU0nm1274Sa8-W_3vUiFoYD9yW5KOQrw
-
-#EXTINF:0, Loki.S01E04.720p.WEB.H264-EXPLOIT.mkv
-https://nikkstv.biswajit.in/api/v1/redirectdownload/Loki.S01E04.720p.WEB.H264-EXPLOIT.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1q9ndqzb3cNy5xE64w2ubs_OYql5AO_TA
-#EXTINF:0, Loki.S01E05.Journey.Into.Mystery.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
-
-https://nikkstv.biswajit.in/api/v1/redirectdownload/Loki.S01E05.Journey.Into.Mystery.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=18pF0hkfSsO1CSF6Cbw84Cc2K0xSNu9s5
-#EXTINF:0, Loki.S01E06.For.All.TimeAlways.1080p.HS.DSNP.WEB_DL.Multi.DDP5.1.x264_ShiNobi.mkv
-https://nikkstv.biswajit.in/api/v1/redirectdownload/Loki.S01E06.For.All.TimeAlways.1080p.HS.DSNP.WEB_DL.Multi.DDP5.1.x264_ShiNobi.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1iURHqQ-hnx_oEkVezB0S95YFzGLGhisl
+#EXTENC: UTF-8
+#PLAYLIST: Season 01
+#EXTINF:0, Ray  S01EP1.mkv
+https://nikkstv.biswajit.in/api/v1/redirectdownload/Ray%20%20S01EP1.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=11f9lL0hMR-hVsCqXO0Byw65HJ_ZZzSkv
+#EXTINF:0, Ray  S01EP2.mkv
+https://nikkstv.biswajit.in/api/v1/redirectdownload/Ray%20%20S01EP2.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1yMaUAsR-PqehlXp8kkLM63VQCQmmhsCY
+#EXTINF:0, Ray  S01EP3.mkv
+https://nikkstv.biswajit.in/api/v1/redirectdownload/Ray%20%20S01EP3.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1lKiRpLuqRWQPnB3lBT_X9yElZD1RG4ou
+#EXTINF:0, Ray  S01EP4.mkv
+https://nikkstv.biswajit.in/api/v1/redirectdownload/Ray%20%20S01EP4.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1TldqdiHrBwmhmBCXnIRQj0GdTwtQZdVY
