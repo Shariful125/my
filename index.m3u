@@ -1,18 +1,11 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:11719
-#EXT-X-TARGETDURATION:6
-#EXTINF:4.480,
-1626425860616.ts
-#EXTINF:5.360,
-1626425865078.ts
-#EXTINF:4.520,
-1626425870434.ts
-#EXTINF:4.000,
-1626425875052.ts
-#EXTINF:5.720,
-1626425878995.ts
-#EXTINF:4.280,
-1626425884737.ts
-#EXTINF:4.000,
-1626425889028.ts
+#EXTENC: UTF-8
+#PLAYLIST: Season 01
+#EXTINF:0, Ray  S01EP1.mkv
+https://nikkstv.biswajit.in/api/v1/redirectdownload/Ray%20%20S01EP1.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=11f9lL0hMR-hVsCqXO0Byw65HJ_ZZzSkv
+#EXTINF:0, Ray  S01EP2.mkv
+https://nikkstv.biswajit.in/api/v1/redirectdownload/Ray%20%20S01EP2.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1yMaUAsR-PqehlXp8kkLM63VQCQmmhsCY
+#EXTINF:0, Ray  S01EP3.mkv
+https://nikkstv.biswajit.in/api/v1/redirectdownload/Ray%20%20S01EP3.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1lKiRpLuqRWQPnB3lBT_X9yElZD1RG4ou
+#EXTINF:0, Ray  S01EP4.mkv
+https://nikkstv.biswajit.in/api/v1/redirectdownload/Ray%20%20S01EP4.mkv?a=7k2qk73gxifwkwwic2wgq0wf8r5fjtmn4pbmjcf5wq1eryp6ne&id=1TldqdiHrBwmhmBCXnIRQj0GdTwtQZdVY
